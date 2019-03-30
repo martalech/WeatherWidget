@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/WeatherWidget">
+        <file>Resources/Cloud.png</file>
+        <file>Resources/Mist.png</file>
+        <file>Resources/Moon.png</file>
+        <file>Resources/MoonRain.png</file>
+        <file>Resources/MoonWithClouds.png</file>
+        <file>Resources/Snow.png</file>
+        <file>Resources/Sun.png</file>
+        <file>Resources/SunRain.png</file>
+        <file>Resources/SunWithClouds.png</file>
+        <file>Resources/Thunderstorm.png</file>
+        <file>Resources/DarkCloud.png</file>
+        <file>Resources/Rain.png</file>
+    </qresource>
+</RCC>
